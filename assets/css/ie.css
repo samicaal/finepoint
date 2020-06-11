@@ -1,0 +1,1 @@
+.greyScale{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='saturate' values='0'/></filter></svg>#grayscale")!important;-webkit-filter:grayscale(1)!important;filter:grayscale(1)!important;filter:gray!important}.greyScale:hover{filter:none!important}

@@ -1,0 +1,1 @@
+!function(n){n.fn.extend({limiter:function(t,u){function e(n,u){var e=n.value.length;e>t&&(n.value=n.value.substr(0,t),e=t),u.html(t-e)}n(this).on("keyup focus",function(){e(this,u)}),e(n(this)[0],u)}})}(jQuery);
